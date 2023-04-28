@@ -657,7 +657,6 @@
 
 ## Conteúdos (10)
 - Número 1
-- Número 10
 - Número 2
 - Número 3
 - Número 4
@@ -666,6 +665,7 @@
 - Número 7
 - Número 8
 - Número 9
+- Número 10
 
 
 # Atividade: Contar Números
@@ -680,7 +680,6 @@
 
 ## Conteúdos (10)
 - Número 1
-- Número 10
 - Número 2
 - Número 3
 - Número 4
@@ -689,6 +688,7 @@
 - Número 7
 - Número 8
 - Número 9
+- Número 10
 
 
 # Atividade: Encontrar Números
@@ -713,7 +713,6 @@
 
 ## Conteúdos (10)
 - Número 1
-- Número 10
 - Número 2
 - Número 3
 - Número 4
@@ -722,6 +721,7 @@
 - Número 7
 - Número 8
 - Número 9
+- Número 10
 
 
 # Atividade: Conhecer Números
@@ -730,7 +730,6 @@
 
 ## Conteúdos (10)
 - Número 1
-- Número 10
 - Número 2
 - Número 3
 - Número 4
@@ -739,6 +738,7 @@
 - Número 7
 - Número 8
 - Número 9
+- Número 10
 
 
 # Atividade: Parear Números
@@ -754,7 +754,6 @@
 
 ## Conteúdos (10)
 - Número 1
-- Número 10
 - Número 2
 - Número 3
 - Número 4
@@ -763,6 +762,7 @@
 - Número 7
 - Número 8
 - Número 9
+- Número 10
 
 
 # Atividade: Tracejar Números
@@ -771,7 +771,6 @@
 
 ## Conteúdos (10)
 - Número 1
-- Número 10
 - Número 2
 - Número 3
 - Número 4
@@ -780,6 +779,7 @@
 - Número 7
 - Número 8
 - Número 9
+- Número 10
 
 
 # Atividade: Escrever Números
@@ -788,7 +788,6 @@
 
 ## Conteúdos (10)
 - Número 1
-- Número 10
 - Número 2
 - Número 3
 - Número 4
@@ -797,6 +796,7 @@
 - Número 7
 - Número 8
 - Número 9
+- Número 10
 
 
 # Atividade: Encontrar Funções dos Objetos
@@ -1050,5 +1050,3 @@
 - Letra I
 - Letra O
 - Letra U
-
-
